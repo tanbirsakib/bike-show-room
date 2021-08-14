@@ -1,0 +1,31 @@
+/* google fonts  */
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+/* google fonts ends  */
+
+body {
+    font-family: "Poppins";
+}
+
+.heading {
+    background-color: #264653;
+    padding: 155px 170px 96px 156px;
+}
+
+.btn-design {
+    background-color: #e76f51;
+}
+
+.featured-bikes p {
+    color: #e76f51;
+}
+
+.grayscale {
+    filter: grayscale(100%);
+}
+
+.card-image {
+    height: 149px;
+    width: 149px;
+}
