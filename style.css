@@ -10,7 +10,7 @@ body {
 
 .heading {
     background-color: #264653;
-    padding: 155px 170px 96px 156px;
+    /* padding: 155px 170px 96px 156px; */
 }
 
 .btn-design {
@@ -28,4 +28,9 @@ body {
 .card-image {
     height: 149px;
     width: 149px;
+}
+
+.bikes img {
+    width: 200px;
+    height: 170px;
 }
